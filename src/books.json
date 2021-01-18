@@ -1,0 +1,18 @@
+{
+    "books": [
+        {
+            "title": "Agile Testing Condensed: A Brief Introduction",
+            "isbn": "978-1999220518",
+            "description": "Agile Testing Condensed presents a concise, easy-to-read overview of how to succeed with testing and build a quality culture in an agile context. Janet Gregory and Lisa Crispin have distilled their knowledge from two decades of agile testing to help readers understand: -How to fit testing activities into an agile cycle-Who is responsible for completing various testing activities, and when-How to get testers engaged with the rest of the agile development team-How to get everyone on a delivery team engaged in continuous testing-Ways to plan testing activities using visual models-How testing can \"keep up\" with short iterations or even continuous delivery-How to evaluate testing effectiveness and continually improve -How to visualize a test automation strategyThis book is a must for testers, software delivery team members, product team members, business stakeholders, managers, and executives who want to know how to build quality into their product as they move to agile methods.The authors’ first two books, Agile Testing and More Agile Testing, give detailed examples of testing challenges faced by real agile teams and describe how they were solved. This condensed book provides an overview of the agile testing practices that have proven useful in many contexts.",
+            "language": "DE",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/51ifcjUspyL._SX331_BO1,204,203,200_.jpg"
+        },
+        {
+            "title": "Die Physiker. Eine Komödie in zwei Akten",
+            "isbn": "978-3257230475",
+            "description": "Die Physiker, laut Untertitel eine Komödie in zwei Akten, ist ein Drama des Schweizer Schriftstellers Friedrich Dürrenmatt. Es entstand im Jahr 1961 und wurde am 21. Februar 1962 unter der Regie von Kurt Horwitz im Schauspielhaus Zürich uraufgeführt. 1980 überarbeitete Dürrenmatt das Stück geringfügig für seine Werkausgabe.",
+            "language": "EN",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/51ifcjUspyL._SX331_BO1,204,203,200_.jpg"
+        }
+    ]
+}
